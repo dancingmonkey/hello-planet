@@ -1,6 +1,3 @@
-# hello-planet
-Github getting started tutorial
-
 # H1
 ## H2
 ### H3
